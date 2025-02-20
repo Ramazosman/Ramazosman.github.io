@@ -1,0 +1,75 @@
+#recipe-page{
+    background-color:rgb(144, 101, 59);
+    padding:10px; 
+    border:10px;  
+}
+
+#recipe-title{
+    font-size:50px;
+    text-align: center;
+    font-style: italic;
+    background-color:rgb(184, 142, 100);
+    
+}
+#recipe-image{
+    position:absolute;
+    right:10px;
+    top:510px;
+    border:10px;
+    background-color:burlywood;
+    padding:20px;
+    border-radius:90px;
+}
+#recipe2-image{
+    position:absolute;
+    left:1000px;
+    bottom:110px;
+    background-color:burlywood;
+    padding:20px;   
+    border-radius:90px; 
+}
+.section1{
+    background-color:rgb(222, 184, 135);
+    border:10px;
+    padding:5px;
+    width:800px;
+    border-radius: 50px;
+} 
+.section2{
+    background-color:rgb(222, 184, 135);
+    width:815px;
+    border-radius: 50px;
+
+}
+#checklist {
+  padding:50px;
+}
+#video{
+    width:650px;
+    border-radius:20px;
+    padding:5px;
+    background-color:burlywood;
+}
+#talk{
+    width:500px;
+    font-style:Times new roman;
+    background-color:burlywood;
+    padding:5px;
+    border-radius: 20%;
+    width:700px;
+    height:85px;
+}
+.footer{
+    position: absolute; 
+    bottom:100; 
+    right:1; 
+    z-index: 10;
+    width:5px;
+    height:10px;
+}
+.tips{
+    border-radius:20px;
+    padding:2px;
+    background-color: burlywood;
+    width:450px;
+}

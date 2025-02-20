@@ -1,0 +1,80 @@
+
+h1{
+    text-align:center;
+ }
+#green{
+    background-color:rgb(190, 231, 133);
+    width:400px;
+    height:350px;
+    list-style-type: square;
+    border: dotted green;
+    
+
+}
+#pink{
+    background-color:rgb(190, 231, 133);
+    width:400px;
+    height:350px;
+    list-style-type: square;
+    border: dotted green;
+
+}
+.work{
+    background-color:rgb(253, 216, 164);
+    background-color: #64cd64;
+    opacity: 1;
+    background-image:  linear-gradient(135deg, #ffe69c 25%, transparent 25%), linear-gradient(225deg, #ffe69c 25%, transparent 25%), linear-gradient(45deg, #ffe69c 25%, transparent 25%), linear-gradient(315deg, #ffe69c 25%, #64cd64 25%);
+    background-position:  40px 0, 40px 0, 0 0, 0 0;
+    background-size: 40px 40px;
+    background-repeat: repeat;
+
+}
+#yellow{
+    width:150px;
+    height:50px;
+ 
+}
+#blue{
+    width:1500px;
+    height:50px;
+
+}
+#brown{
+    width:850px;
+    height:200px;
+    background-color:rgb(190, 231, 133);
+  
+}
+img{
+    border-radius:20%;
+    background-color:rgb(190, 231, 133)
+  
+}
+ol{
+    background-color:rgb(190, 231, 133);
+    margin:0px;
+    padding:0px;
+
+  
+  
+}
+video{
+    border-radius: 15%;
+    background-color: #032830;
+  
+}
+body{ 
+    background-color:aliceblue;
+}
+h3{
+    background-color:rgb(253, 216, 164);
+    background-color: #64cd64;
+    opacity: 1;
+    background-image:  linear-gradient(135deg, #ffe69c 25%, transparent 25%), linear-gradient(225deg, #ffe69c 25%, transparent 25%), linear-gradient(45deg, #ffe69c 25%, transparent 25%), linear-gradient(315deg, #ffe69c 25%, #64cd64 25%);
+    background-position:  40px 0, 40px 0, 0 0, 0 0;
+    background-size: 40px 40px;
+    background-repeat: repeat;
+    width:150px;
+}
+
+
